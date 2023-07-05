@@ -11,10 +11,10 @@ En este reto, vamos a completar un código que obtiene información sobre difere
 
 2. Inyectar la información obtenida en el HTML de cada tarjeta de plan.
    2.1. Obtener el elemento card del plan "Basic" utilizando su clase (`pricing-card.basic`).
-   2.1.1. Inyectar el nombre del plan obtenido de la API en el título de la tarjeta (`plan-title`).
-   2.1.2. Inyectar el precio del plan obtenido de la API en el componente de precio que consta de las etiquetas `<small>` y `<span>` (`price-title`).
-   2.1.3. Inyectar el valor del descuento de este plan en el span que se encuentra dentro del elemento con clase `badge-box`.
-   2.1.4. Completar la información de las características del plan. Puedes obtener un array con los elementos `<li>` y recorrerlos para agregar las características del plan.
+      2.1.1. Inyectar el nombre del plan obtenido de la API en el título de la tarjeta (`plan-title`).
+      2.1.2. Inyectar el precio del plan obtenido de la API en el componente de precio que consta de las etiquetas `<small>` y `<span>` (`price-title`).
+      2.1.3. Inyectar el valor del descuento de este plan en el span que se encuentra dentro del elemento con clase `badge-box`.
+      2.1.4. Completar la información de las características del plan. Puedes obtener un array con los elementos `<li>` y recorrerlos para agregar las características del plan.
 
 3. Agregar una acción a los botones de cada tarjeta para que nos redirijan a la página `/payment` enviando como parámetros de consulta el nombre y el precio del plan seleccionado.
    - Ejemplo: `/payment.html?name='Basic'&price='$6.95'`
