@@ -107,9 +107,16 @@ Se muestra el comportamiento esperado de la segunda parte del reto.
    - Encuentra los elementos HTML utilizando los selectores adecuados y asigna los valores a sus propiedades `innerHTML`.
 
 3. **Inyectar la fecha actual**:
+
    - Utiliza la función `Date` para obtener la fecha actual.
    - Extrae el año, el mes y el día de la fecha actual y guárdalos en las variables `year`, `month` y `day`.
    - Encuentra el elemento HTML correspondiente a la fecha de la factura y asigna el valor formateado utilizando las variables obtenidas.
+
+4. **Arregla el CSS para centrar la factura**:
+   - Modifica el CSS de tal manera que se vea centrada en la pantalla la factuera de compra como se muestra:
+   <p align="center">
+     <img src="../img/R3.png"/>
+   </p>
 
 ¡Buena suerte! 🚀
 
