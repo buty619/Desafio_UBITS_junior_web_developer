@@ -46,7 +46,7 @@ npm install
 
 ### 🗒 Estructura del reto
 
-En este repositorio encontraras una carpeta con el nombre [page](#) esta contiene 3 archivos:
+En este repositorio encontraras una carpeta con el nombre [page](./page) esta contiene 3 archivos:
 
 - **README.md**: este archivo contiene las instrucciones para resolver el reto por favor léelo cuidadosamente.
 - **index.html**: esta es la estructura html de la pagina principal de nuestro reto.
